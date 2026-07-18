@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-vermilion-retreat",
+  "name": "绛影山居",
+  "brandSubtitle": "CODEX DREAM SKIN",
+  "tagline": "在山水与绛色之间，静候灵感。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "VERMILION RETREAT ONLINE",
+  "quote": "MAKE SOMETHING WONDERFUL",
+  "image": "background.jpg",
+  "appearance": "auto",
+  "art": {
+    "focusX": 0.74,
+    "focusY": 0.47,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  }
+}

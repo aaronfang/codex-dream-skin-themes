@@ -15,6 +15,7 @@
 | 紫夜霓光 | `preset-violet-night` |
 | 雾光花影 | `preset-misty-bloom` |
 | 青黛林间 | `preset-indigo-grove` |
+| 绛影山居 | `preset-vermilion-retreat` |
 
 ## 效果预览
 
