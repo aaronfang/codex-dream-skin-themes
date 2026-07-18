@@ -9,6 +9,7 @@
 | 主题 | ID |
 | --- | --- |
 | 绯红银誓 | `preset-crimson-silver` |
+| 碧落金阙 | `preset-jade-golden-palace` |
 
 ## 安装
 
@@ -248,4 +249,4 @@ Windows 主题注入仍然只使用本机回环 CDP，不会修改 WindowsApps�
 
 ## 素材权利
 
-安装脚本按 MIT License 发布；主题背景图不自动获得软件许可证授权。公开分享前，请确认生图工具的输出许可、肖像权、版权、商标权、角色权和再分发权限。当前“绯红银誓”是外部工具生成的用户素材，详见 [`ARTWORK-NOTICE.md`](./ARTWORK-NOTICE.md)。
+安装脚本按 MIT License 发布；主题背景图不自动获得软件许可证授权。公开分享前，请确认生图工具的输出许可、肖像权、版权、商标权、角色权和再分发权限。当前主题背景是外部工具生成的用户素材，详见 [`ARTWORK-NOTICE.md`](./ARTWORK-NOTICE.md)。

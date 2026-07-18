@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-jade-golden-palace",
+  "name": "碧落金阙",
+  "brandSubtitle": "CODEX DREAM SKIN",
+  "tagline": "在碧影与鎏金之间，静心创造。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "JADE GOLDEN PALACE ONLINE",
+  "quote": "MAKE SOMETHING WONDERFUL",
+  "image": "background.jpg",
+  "appearance": "auto",
+  "art": {
+    "focusX": 0.76,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  }
+}
