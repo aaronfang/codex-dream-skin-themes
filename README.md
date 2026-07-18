@@ -10,6 +10,7 @@
 | --- | --- |
 | 绯红银誓 | `preset-crimson-silver` |
 | 碧落金阙 | `preset-jade-golden-palace` |
+| 鎏金花影 | `preset-golden-peony` |
 
 ## 安装
 

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-golden-peony",
+  "name": "鎏金花影",
+  "brandSubtitle": "CODEX DREAM SKIN",
+  "tagline": "在墨色与鎏金之间，静观花影流转。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "GILDED PEONY ONLINE",
+  "quote": "MAKE SOMETHING WONDERFUL",
+  "image": "background.jpg",
+  "appearance": "auto",
+  "art": {
+    "focusX": 0.76,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  }
+}
