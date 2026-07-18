@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-crimson-silver",
+  "name": "绯红银誓",
+  "brandSubtitle": "CODEX DREAM SKIN",
+  "tagline": "在烛光与绯红之间，保持专注。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "CRIMSON SILVER ONLINE",
+  "quote": "MAKE SOMETHING WONDERFUL",
+  "image": "background.jpg",
+  "appearance": "auto",
+  "art": {
+    "focusX": 0.74,
+    "focusY": 0.46,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  }
+}
