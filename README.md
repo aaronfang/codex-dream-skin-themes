@@ -16,6 +16,29 @@
 | 雾光花影 | `preset-misty-bloom` |
 | 青黛林间 | `preset-indigo-grove` |
 
+## 效果预览
+
+以下截图展示各主题在 Codex macOS 客户端中的实际效果。点击图片可查看大图。
+
+<table>
+  <tr>
+    <td align="center"><strong>绯红银誓</strong><br><a href="./docs/screenshots/crimson-silver.jpg"><img src="./docs/screenshots/crimson-silver.jpg" alt="绯红银誓主题预览" width="100%"></a></td>
+    <td align="center"><strong>碧落金阙</strong><br><a href="./docs/screenshots/jade-golden-palace.jpg"><img src="./docs/screenshots/jade-golden-palace.jpg" alt="碧落金阙主题预览" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>鎏金花影</strong><br><a href="./docs/screenshots/golden-peony.jpg"><img src="./docs/screenshots/golden-peony.jpg" alt="鎏金花影主题预览" width="100%"></a></td>
+    <td align="center"><strong>枫影绯狐</strong><br><a href="./docs/screenshots/autumn-fox.jpg"><img src="./docs/screenshots/autumn-fox.jpg" alt="枫影绯狐主题预览" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>紫夜霓光</strong><br><a href="./docs/screenshots/violet-night.jpg"><img src="./docs/screenshots/violet-night.jpg" alt="紫夜霓光主题预览" width="100%"></a></td>
+    <td align="center"><strong>雾光花影</strong><br><a href="./docs/screenshots/misty-bloom.jpg"><img src="./docs/screenshots/misty-bloom.jpg" alt="雾光花影主题预览" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>青黛林间</strong><br><a href="./docs/screenshots/indigo-grove.jpg"><img src="./docs/screenshots/indigo-grove.jpg" alt="青黛林间主题预览" width="100%"></a></td>
+    <td></td>
+  </tr>
+</table>
+
 ## 安装
 
 先启动过一次官方 Codex，然后退出 Codex。若尚未安装引擎：
