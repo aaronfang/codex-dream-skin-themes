@@ -11,6 +11,10 @@
 | 绯红银誓 | `preset-crimson-silver` |
 | 碧落金阙 | `preset-jade-golden-palace` |
 | 鎏金花影 | `preset-golden-peony` |
+| 枫影绯狐 | `preset-autumn-fox` |
+| 紫夜霓光 | `preset-violet-night` |
+| 雾光花影 | `preset-misty-bloom` |
+| 青黛林间 | `preset-indigo-grove` |
 
 ## 安装
 

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-misty-bloom",
+  "name": "雾光花影",
+  "brandSubtitle": "CODEX DREAM SKIN",
+  "tagline": "在柔雾与花香之间，保持清醒。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "MISTY BLOOM ONLINE",
+  "quote": "MAKE SOMETHING WONDERFUL",
+  "image": "background.jpg",
+  "appearance": "auto",
+  "art": {
+    "focusX": 0.75,
+    "focusY": 0.47,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  }
+}

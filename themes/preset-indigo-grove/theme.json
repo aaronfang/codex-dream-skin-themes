@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-indigo-grove",
+  "name": "青黛林间",
+  "brandSubtitle": "CODEX DREAM SKIN",
+  "tagline": "借一隅林光，安放心中秩序。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "INDIGO GROVE ONLINE",
+  "quote": "MAKE SOMETHING WONDERFUL",
+  "image": "background.jpg",
+  "appearance": "auto",
+  "art": {
+    "focusX": 0.76,
+    "focusY": 0.49,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  }
+}
