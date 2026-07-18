@@ -56,6 +56,89 @@ cd /path/to/Codex-Dream-Skin/macos
 ./Install\ Menu\ Bar.command
 ```
 
+## SwiftBar 安装与配置
+
+SwiftBar 是 macOS 菜单栏控制面板，不负责生成主题素材；它只负责启动、暂停、重新应用和切换已保存主题。
+
+### 1. 安装 SwiftBar
+
+如果还没有安装：
+
+```bash
+brew install --cask swiftbar
+```
+
+首次打开 SwiftBar 时，如果它询问插件目录，可以先取消，下一步脚本会自动配置正确目录。
+
+### 2. 注册 Codex Dream Skin 插件
+
+在本主题仓库目录执行：
+
+```bash
+./scripts/install-swiftbar-macos.sh
+```
+
+这个脚本要求已经安装原始 Codex Dream Skin 引擎，并会调用引擎自带的插件安装逻辑。它不会重复安装 SwiftBar。
+
+插件目录是：
+
+```text
+~/Library/Application Support/CodexDreamSkinStudio/menubar
+```
+
+插件文件是：
+
+```text
+codex_dream_skin.10s.sh
+```
+
+`.10s.sh` 表示 SwiftBar 默认每 10 秒刷新一次状态。
+
+### 3. 确认菜单栏
+
+完成后，macOS 右上角应出现：
+
+```text
+🎨 Skin
+```
+
+菜单中可以使用：
+
+- `应用皮肤`：启动 Codex 并应用当前主题；
+- `重新应用皮肤`：Codex 已运行时热加载主题；
+- `暂停皮肤`：暂时移除注入效果；
+- `换一张图…`：导入新的纯背景并生成自定义主题；
+- `已保存的主题`：在主题之间切换；
+- `打开图片文件夹`：打开本地图片归档目录；
+- `完全恢复`：停止注入并恢复官方外观；
+- `刷新`：立即刷新菜单状态。
+
+### 4. 菜单栏没有显示时
+
+打开 SwiftBar → Preferences，确认 Plugin Folder 设置为：
+
+```text
+/Users/你的用户名/Library/Application Support/CodexDreamSkinStudio/menubar
+```
+
+也可以重新执行：
+
+```bash
+./scripts/install-swiftbar-macos.sh
+```
+
+如果 SwiftBar 正在运行，退出并重新打开 SwiftBar，或在菜单中执行 Refresh All。
+
+### 5. 更新引擎或主题后重新注册
+
+原始引擎更新后，重新执行以下命令即可同步插件脚本：
+
+```bash
+./scripts/install-swiftbar-macos.sh
+```
+
+它只会更新插件和引擎脚本副本，不会删除已保存主题。
+
 ## 更新
 
 ```bash
