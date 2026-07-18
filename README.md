@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="center"><strong>青黛林间</strong><br><a href="./docs/screenshots/indigo-grove.jpg"><img src="./docs/screenshots/indigo-grove.jpg" alt="青黛林间主题预览" width="100%"></a></td>
-    <td></td>
+    <td align="center"><strong>绛影山居</strong><br><a href="./docs/screenshots/vermilion-retreat.jpg"><img src="./docs/screenshots/vermilion-retreat.jpg" alt="绛影山居主题预览" width="100%"></a></td>
   </tr>
 </table>
 
